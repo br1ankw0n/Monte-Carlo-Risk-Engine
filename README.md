@@ -2,7 +2,7 @@
 
 ## Motivation
 
-At first, I wanted to mess around with Monte Carlo simulations of **two-asset portfolios where the assets are negatively correlated**. However, while maintaining the strucutre of the two-assset portfolio simulaiton, I gradually pivoted towards **simulating returns according to varying distributions**. 
+At first, I wanted to experiment with Monte Carlo simulations of **two-asset portfolios where the assets are negatively correlated**. However, while maintaining the strucutre of the two-assset portfolio simulaiton, I gradually pivoted towards **simulating returns according to varying distributions**. 
 
 Most examples I found online only considered a Mean-Variance framework where returns are normally distributed and multi-asset returns are modeled with a multivariate normal. Because most return distributions are actually skewed in reality, **I wanted to explore this asymmetry**.
 
